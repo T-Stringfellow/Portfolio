@@ -9,7 +9,7 @@ All necessary scripts and instructions for replication are included for review.
 
 Direct link to detailed [project overview](https://github.com/T-Stringfellow/Azure-Cloud-Environment/blob/main/README.md)
 
-## Project 2
+2. ## Project 2
 ### Overview
 This project is a simulation of a Red Team vs Blue Team scenario, where both the role of pentester and SOC analyst were played.
 
