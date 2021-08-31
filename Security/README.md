@@ -1,7 +1,7 @@
 # SECURITY PROJECTS
 The linked repositories contained here relate to various sectors of the CyberSecurity field. A high-level overview of each project is outlined below. Further detail is available from within each repository.
 
-## Azure Cloud Environment
+## * Azure Cloud Environment
 ### Overview
 This project addresses the development and deployment of an ELK stack monitoring system within an Azure-based Cloud environment.
 
@@ -9,7 +9,7 @@ All necessary scripts and instructions for replication are included for review.
 
 Direct link to detailed [project overview](https://github.com/T-Stringfellow/Azure-Cloud-Environment/blob/main/README.md)
 
-## Project 2
+## * Project 2
 ### Overview
 This project is a simulation of a Red Team vs Blue Team scenario, where both the role of pentester and SOC analyst were played.
 
