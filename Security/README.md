@@ -1,7 +1,7 @@
 # SECURITY PROJECTS
 The linked repositories contained here relate to various sectors of the CyberSecurity field. A high-level overview of each project is outlined below. Further detail is available from within each repository.
 
-*## Azure Cloud Environment
+* ## Azure Cloud Environment
 ### Overview
 This project addresses the development and deployment of an ELK stack monitoring system within an Azure-based Cloud environment.
 
